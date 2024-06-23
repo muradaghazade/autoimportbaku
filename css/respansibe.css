@@ -1,0 +1,134 @@
+@media (min-width: 360px) and (max-width: 767px) {
+
+.About-text {
+    margin: 0px;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+
+}
+
+.text-white {
+    font-size: 22px;
+   
+
+}
+
+#navbarNav{
+    background-color: #323031;
+    margin-top: -7px;
+    z-index: 20;
+    padding-left: 24px;
+    /* position: fixed; */
+    margin-left: 0px;
+}
+
+
+
+.icons-ftr {
+    width: 31px;
+    padding: 1px;
+}
+
+
+
+.cards-main{
+    padding: 70px;
+    
+}
+
+.box{
+    width: 272px !important;
+    
+    padding: 7px !important;
+    margin: 20px !important;
+    padding-top: 37px !important;
+    padding-left: 20px !important;
+}
+   
+
+
+.Credits{
+    margin-top: 14px;
+    width: 53%;
+    height: 95%;
+    margin-left: 78px;
+}
+
+.Credits-img {
+    width: 213px;
+    height: 282px;
+    margin-top: -3px;
+    margin-left: 74px;
+    padding: 30px !important;
+}
+
+.Credits-main{
+    height: 860px;
+}
+
+.p-text{
+    color: white;
+    text-align: left;
+    font-size: 24px;
+}
+
+
+.footer-logo{
+    padding-right: 60px;
+
+}
+
+
+
+
+.Rectangle-img {
+    width: 233px !important;
+    height: 338px !important;
+    margin-top: 45px !important;
+    margin-left: -73px !important;
+}
+
+
+.Rectangle {
+    margin-top: 100px;
+    margin-inline-start: auto;
+    width: 58%;
+    height: 90%;
+    margin-left: 110px;
+}
+    
+
+
+.contact-container {
+    padding-top: 46px;
+   
+}
+
+
+
+.contact-name-input {
+    padding: 16px;
+    width: 73%;
+}
+
+.contact-name-textarea {
+    width: 73%;
+}
+
+
+.contact-btn {
+    padding: 13px;
+    width: 60%;
+    font-size: 22px;
+}
+
+.Logo{
+    margin-top: 0;
+}
+
+}
+
+
+
+
